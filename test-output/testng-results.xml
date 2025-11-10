@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-10-13T21:07:12 IST" name="Suite" finished-at="2025-10-13T21:07:28 IST" duration-ms="16681">
+    <groups>
+    </groups>
+    <test started-at="2025-10-13T21:07:12 IST" name="Test" finished-at="2025-10-13T21:07:28 IST" duration-ms="16681">
+      <class name="testCases.TC002_CourseUpdatePage">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC002_CourseUpdatePage@183ec003]" started-at="2025-10-13T21:07:12 IST" name="setup" finished-at="2025-10-13T21:07:18 IST" duration-ms="5674" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="signup()[pri:0, instance:testCases.TC002_CourseUpdatePage@183ec003]" started-at="2025-10-13T21:07:18 IST" name="signup" finished-at="2025-10-13T21:07:18 IST" duration-ms="598" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signup -->
+        <test-method signature="course()[pri:0, instance:testCases.TC002_CourseUpdatePage@183ec003]" started-at="2025-10-13T21:07:18 IST" name="course" finished-at="2025-10-13T21:07:24 IST" depends-on-methods="testCases.TC002_CourseUpdatePage.signup" duration-ms="5370" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- course -->
+        <test-method signature="deleteCourse()[pri:0, instance:testCases.TC002_CourseUpdatePage@183ec003]" started-at="2025-10-13T21:07:24 IST" name="deleteCourse" finished-at="2025-10-13T21:07:27 IST" depends-on-methods="testCases.TC002_CourseUpdatePage.course" duration-ms="3651" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteCourse -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testCases.TC002_CourseUpdatePage@183ec003]" started-at="2025-10-13T21:07:27 IST" name="teardown" finished-at="2025-10-13T21:07:28 IST" duration-ms="858" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- testCases.TC002_CourseUpdatePage -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

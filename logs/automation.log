@@ -1,0 +1,89 @@
+19:26:08.643 [main] INFO  testCases.TC002_CourseUpdatePage - ********Launching our website*******
+19:26:10.092 [main] INFO  testCases.TC002_CourseUpdatePage - *******Successfully we click add on course button*******
+19:26:10.140 [main] INFO  testCases.TC002_CourseUpdatePage - *******Successfully we upload the file*******
+19:26:13.292 [main] INFO  testCases.TC002_CourseUpdatePage - *******Successfully course is created on the table*******
+19:26:14.811 [main] INFO  testCases.TC002_CourseUpdatePage - *******Successfully we deleted the course*******
+19:26:15.199 [main] INFO  testCases.TC002_CourseUpdatePage - *******Successfully we signout the app*******
+19:26:15.664 [main] INFO  testCases.TC002_CourseUpdatePage - Closed our application
+19:48:40.028 [main] INFO  testCases.TC002_CourseUpdatePage - ********Launching our website*******
+19:48:41.400 [main] INFO  testCases.TC002_CourseUpdatePage - *******Successfully we click add on course button*******
+19:48:41.447 [main] INFO  testCases.TC002_CourseUpdatePage - *******Successfully we upload the file*******
+19:48:44.595 [main] INFO  testCases.TC002_CourseUpdatePage - *******Successfully course is created on the table*******
+19:48:46.304 [main] INFO  testCases.TC002_CourseUpdatePage - *******Successfully we deleted the course*******
+19:48:46.710 [main] INFO  testCases.TC002_CourseUpdatePage - *******Successfully we signout the app*******
+19:48:47.174 [main] INFO  testCases.TC002_CourseUpdatePage - Closed our application
+19:49:18.246 [main] INFO  testCases.TC002_CourseUpdatePage - ********Launching our website*******
+19:49:19.284 [main] INFO  testCases.TC002_CourseUpdatePage - *******Successfully we click add on course button*******
+19:49:19.397 [main] INFO  testCases.TC002_CourseUpdatePage - *******Successfully we upload the file*******
+19:49:22.624 [main] INFO  testCases.TC002_CourseUpdatePage - *******Successfully course is created on the table*******
+19:49:24.456 [main] INFO  testCases.TC002_CourseUpdatePage - *******Successfully we deleted the course*******
+19:49:25.900 [main] INFO  testCases.TC002_CourseUpdatePage - Closed our application
+19:53:05.327 [main] INFO  testCases.TC002_CourseUpdatePage - ********Launching our website*******
+19:53:06.679 [main] INFO  testCases.TC002_CourseUpdatePage - *******Successfully we click add on course button*******
+19:53:06.726 [main] INFO  testCases.TC002_CourseUpdatePage - *******Successfully we upload the file*******
+19:53:09.980 [main] INFO  testCases.TC002_CourseUpdatePage - *******Successfully course is created on the table*******
+19:53:12.432 [main] INFO  testCases.TC002_CourseUpdatePage - *******Successfully we deleted the course*******
+19:53:12.764 [main] INFO  testCases.TC002_CourseUpdatePage - *******Successfully we signout the app*******
+19:53:13.227 [main] INFO  testCases.TC002_CourseUpdatePage - Closed our application
+19:57:55.863 [TestNG-tests-1] INFO  testCases.TC002_CourseUpdatePage - ********Launching our website*******
+19:57:57.711 [TestNG-tests-1] INFO  testCases.TC002_CourseUpdatePage - *******Successfully we click add on course button*******
+19:57:57.778 [TestNG-tests-1] INFO  testCases.TC002_CourseUpdatePage - *******Successfully we upload the file*******
+19:58:00.031 [TestNG-tests-3] INFO  testCases.TC002_CourseUpdatePage - ********Launching our website*******
+19:58:01.276 [TestNG-tests-3] INFO  testCases.TC002_CourseUpdatePage - *******Successfully we click add on course button*******
+19:58:01.431 [TestNG-tests-3] INFO  testCases.TC002_CourseUpdatePage - *******Successfully we upload the file*******
+19:58:02.717 [TestNG-tests-1] INFO  testCases.TC002_CourseUpdatePage - *******Successfully course is created on the table*******
+19:58:04.287 [TestNG-tests-1] INFO  testCases.TC002_CourseUpdatePage - *******Successfully we deleted the course*******
+19:58:04.468 [TestNG-tests-3] INFO  testCases.TC002_CourseUpdatePage - *******Successfully course is created on the table*******
+19:58:04.663 [TestNG-tests-1] INFO  testCases.TC002_CourseUpdatePage - *******Successfully we signout the app*******
+19:58:05.517 [TestNG-tests-3] INFO  testCases.TC002_CourseUpdatePage - *******Successfully we deleted the course*******
+19:58:05.693 [TestNG-tests-1] INFO  testCases.TC002_CourseUpdatePage - Closed our application
+19:58:06.890 [TestNG-tests-3] INFO  testCases.TC002_CourseUpdatePage - Closed our application
+19:59:02.490 [TestNG-tests-1] INFO  testCases.TC002_CourseUpdatePage - ********Launching our website*******
+19:59:04.347 [TestNG-tests-1] INFO  testCases.TC002_CourseUpdatePage - *******Successfully we click add on course button*******
+19:59:04.397 [TestNG-tests-1] INFO  testCases.TC002_CourseUpdatePage - *******Successfully we upload the file*******
+19:59:06.237 [TestNG-tests-2] INFO  testCases.TC002_CourseUpdatePage - ********Launching our website*******
+19:59:07.379 [TestNG-tests-2] INFO  testCases.TC002_CourseUpdatePage - *******Successfully we click add on course button*******
+19:59:07.514 [TestNG-tests-2] INFO  testCases.TC002_CourseUpdatePage - *******Successfully we upload the file*******
+19:59:09.330 [TestNG-tests-1] INFO  testCases.TC002_CourseUpdatePage - *******Successfully course is created on the table*******
+19:59:10.747 [TestNG-tests-2] INFO  testCases.TC002_CourseUpdatePage - *******Successfully course is created on the table*******
+19:59:11.307 [TestNG-tests-1] INFO  testCases.TC002_CourseUpdatePage - *******Successfully we deleted the course*******
+19:59:11.669 [TestNG-tests-1] INFO  testCases.TC002_CourseUpdatePage - *******Successfully we signout the app*******
+19:59:12.084 [TestNG-tests-1] INFO  testCases.TC002_CourseUpdatePage - Closed our application
+19:59:36.742 [TestNG-tests-1] INFO  testCases.TC002_CourseUpdatePage - ********Launching our website*******
+19:59:38.513 [TestNG-tests-1] INFO  testCases.TC002_CourseUpdatePage - *******Successfully we click add on course button*******
+19:59:38.587 [TestNG-tests-1] INFO  testCases.TC002_CourseUpdatePage - *******Successfully we upload the file*******
+19:59:40.579 [TestNG-tests-2] INFO  testCases.TC002_CourseUpdatePage - ********Launching our website*******
+19:59:41.787 [TestNG-tests-2] INFO  testCases.TC002_CourseUpdatePage - *******Successfully we click add on course button*******
+19:59:41.916 [TestNG-tests-2] INFO  testCases.TC002_CourseUpdatePage - *******Successfully we upload the file*******
+19:59:43.435 [TestNG-tests-1] INFO  testCases.TC002_CourseUpdatePage - *******Successfully course is created on the table*******
+19:59:44.916 [TestNG-tests-2] INFO  testCases.TC002_CourseUpdatePage - *******Successfully course is created on the table*******
+19:59:45.308 [TestNG-tests-1] INFO  testCases.TC002_CourseUpdatePage - *******Successfully we deleted the course*******
+19:59:45.677 [TestNG-tests-1] INFO  testCases.TC002_CourseUpdatePage - *******Successfully we signout the app*******
+19:59:46.163 [TestNG-tests-1] INFO  testCases.TC002_CourseUpdatePage - Closed our application
+20:00:22.547 [TestNG-tests-1] INFO  testCases.TC002_CourseUpdatePage - ********Launching our website*******
+20:00:23.618 [TestNG-tests-1] INFO  testCases.TC002_CourseUpdatePage - *******Successfully we click add on course button*******
+20:00:23.720 [TestNG-tests-1] INFO  testCases.TC002_CourseUpdatePage - *******Successfully we upload the file*******
+20:00:26.949 [TestNG-tests-1] INFO  testCases.TC002_CourseUpdatePage - *******Successfully course is created on the table*******
+20:00:29.139 [TestNG-tests-1] INFO  testCases.TC002_CourseUpdatePage - *******Successfully we deleted the course*******
+20:00:30.560 [TestNG-tests-1] INFO  testCases.TC002_CourseUpdatePage - Closed our application
+20:09:43.907 [main] INFO  testCases.TC002_CourseUpdatePage - ********Launching our website*******
+20:09:45.380 [main] INFO  testCases.TC002_CourseUpdatePage - *******Successfully we click add on course button*******
+20:09:45.431 [main] INFO  testCases.TC002_CourseUpdatePage - *******Successfully we upload the file*******
+20:09:48.717 [main] INFO  testCases.TC002_CourseUpdatePage - *******Successfully course is created on the table*******
+20:09:50.519 [main] INFO  testCases.TC002_CourseUpdatePage - *******Successfully we deleted the course*******
+20:09:50.851 [main] INFO  testCases.TC002_CourseUpdatePage - *******Successfully we signout the app*******
+20:09:51.311 [main] INFO  testCases.TC002_CourseUpdatePage - Closed our application
+20:25:52.889 [main] INFO  testCases.TC002_CourseUpdatePage - ********Launching our website*******
+20:25:54.420 [main] INFO  testCases.TC002_CourseUpdatePage - *******Successfully we click add on course button*******
+20:25:54.478 [main] INFO  testCases.TC002_CourseUpdatePage - *******Successfully we upload the file*******
+20:25:57.835 [main] INFO  testCases.TC002_CourseUpdatePage - *******Successfully course is created on the table*******
+20:25:59.537 [main] INFO  testCases.TC002_CourseUpdatePage - *******Successfully we deleted the course*******
+20:25:59.902 [main] INFO  testCases.TC002_CourseUpdatePage - *******Successfully we signout the app*******
+20:26:00.429 [main] INFO  testCases.TC002_CourseUpdatePage - Closed our application
+21:07:18.320 [main] INFO  testCases.TC002_CourseUpdatePage - ********Launching our website*******
+21:07:20.205 [main] INFO  testCases.TC002_CourseUpdatePage - *******Successfully we click add on course button*******
+21:07:20.267 [main] INFO  testCases.TC002_CourseUpdatePage - *******Successfully we upload the file*******
+21:07:24.333 [main] INFO  testCases.TC002_CourseUpdatePage - *******Successfully course is created on the table*******
+21:07:27.620 [main] INFO  testCases.TC002_CourseUpdatePage - *******Successfully we deleted the course*******
+21:07:27.992 [main] INFO  testCases.TC002_CourseUpdatePage - *******Successfully we signout the app*******
+21:07:28.852 [main] INFO  testCases.TC002_CourseUpdatePage - Closed our application
